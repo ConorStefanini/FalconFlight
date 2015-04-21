@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CameraScript.cs" Line="408" Column="1" />
+      <File FileName="Assets\Scripts\FalconScript.cs" Line="144" Column="52" />
+      <File FileName="Assets\Scripts\BlueBirdScript.cs" Line="75" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
